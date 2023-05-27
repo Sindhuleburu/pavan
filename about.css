@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: rgb(230, 13, 13);
+    padding: 50px;
+}
+body:hover{
+    color: rgb(249, 246, 246);
+    cursor: pointer;
+}
